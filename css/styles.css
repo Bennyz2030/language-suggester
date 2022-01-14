@@ -1,0 +1,103 @@
+#ruby, #javaScript, #cSharp, #whiteSpace {
+  display:none;
+}
+
+h2 {
+  font-family:monospace;
+  text-align: center;
+  margin: auto;
+  margin-left: 7.5%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: inline-block;
+  box-sizing: border-box;
+  box-shadow:
+  0 1.6px 1.2px rgba(0, 0, 0, 0.063),
+  0 3.4px 2.7px rgba(0, 0, 0, 0.093),
+  0 5.8px 4.6px rgba(0, 0, 0, 0.115),
+  0 8.7px 6.9px rgba(0, 0, 0, 0.133),
+  0 12.5px 10px rgba(0, 0, 0, 0.15),
+  0 17.7px 14.2px rgba(0, 0, 0, 0.167),
+  0 25.1px 20.1px rgba(0, 0, 0, 0.185),
+  0 36.5px 29.2px rgba(0, 0, 0, 0.207),
+  0 56.3px 45px rgba(0, 0, 0, 0.237),
+  0 100px 80px rgba(0, 0, 0, 0.3);
+  background-color:rgb(88, 185, 177);
+}
+
+.jumbotron {
+  font-family:monospace;
+  text-align: center;
+  text-shadow: 2px 2px rgb(111, 118, 119);
+  margin: auto;
+  margin-left: 7.5%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: inline-block;
+  box-sizing: border-box;
+  box-shadow:
+  0 1.6px 1.2px rgba(0, 0, 0, 0.063),
+  0 3.4px 2.7px rgba(0, 0, 0, 0.093),
+  0 5.8px 4.6px rgba(0, 0, 0, 0.115),
+  0 8.7px 6.9px rgba(0, 0, 0, 0.133),
+  0 12.5px 10px rgba(0, 0, 0, 0.15),
+  0 17.7px 14.2px rgba(0, 0, 0, 0.167),
+  0 25.1px 20.1px rgba(0, 0, 0, 0.185),
+  0 36.5px 29.2px rgba(0, 0, 0, 0.207),
+  0 56.3px 45px rgba(0, 0, 0, 0.237),
+  0 100px 80px rgba(0, 0, 0, 0.3);
+  background-color:rgb(88, 185, 177);
+}
+
+form {
+  font-family:monospace;
+  text-align: center;
+  margin: auto;
+  margin-left: 7.5%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: inline-block;
+  box-sizing: border-box;
+  box-shadow:
+  0 1.6px 1.2px rgba(0, 0, 0, 0.063),
+  0 3.4px 2.7px rgba(0, 0, 0, 0.093),
+  0 5.8px 4.6px rgba(0, 0, 0, 0.115),
+  0 8.7px 6.9px rgba(0, 0, 0, 0.133),
+  0 12.5px 10px rgba(0, 0, 0, 0.15),
+  0 17.7px 14.2px rgba(0, 0, 0, 0.167),
+  0 25.1px 20.1px rgba(0, 0, 0, 0.185),
+  0 36.5px 29.2px rgba(0, 0, 0, 0.207),
+  0 56.3px 45px rgba(0, 0, 0, 0.237),
+  0 100px 80px rgba(0, 0, 0, 0.3);
+  background-color:rgb(88, 185, 177); 
+}
+
+h3 {
+  font-family:monospace;
+  text-align: center;
+}
+
+body {
+  background-color:powderblue;
+}
+
+label {
+  font-family: monospace;
+}
+
+button:hover {
+  background-color:powderblue;
+  font-family: monospace;
+}
+
+img {
+  width:75%;
+  border: solid black;
+  margin: 10px;
+  float:left;
+}
+
+p {
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
