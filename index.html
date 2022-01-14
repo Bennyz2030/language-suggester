@@ -13,22 +13,14 @@
     <h1>Welcome to the Programming Language Suggester!</h1>
     </div>
     <h2>Answer these simple questions to find out which programming language best suits you</h2>
-    <p>Select favorite hair color:</p>
-    <div>
-      <input type="radio" id="hairColor" name="hairColor" value="color"
-             checked>
-      <label for=hairColor">Blonde</label>
-    </div>
-    
-    <div>
-      <input type="radio" id="dewey" name="drone" value="dewey">
-      <label for="dewey">Brown</label>
-    </div>
-    
-    <div>
-      <input type="radio" id="louie" name="drone" value="louie">
-      <label for="louie">Glactic purple</label>
-    </div>
+    <form id="surveyInput">
+      <div class="row">
+        <div class="col-4">
+          <div class="form-group">
+            <label for="hairColor"><strong>Which hair color do you like most?</strong><br>1 = Brown <br>2 = Blonde <br>3 = Red <br> 4 = Glactic Rainbow</label>
+            <input id="hairColor" class="form-control" type="number" min=1 max=4>
+          </div>
+        </div>
         <div class="col-4">
           <div class="form-group">
             <label for="pizzaTopping"><strong>Which of these pizza toppings do you prefer?</strong><br>1 = Pepperoni <br>2 = salami <br>3 = Pineapple <br> 4 = Space worm livers</label>
